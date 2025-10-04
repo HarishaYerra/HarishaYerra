@@ -3,7 +3,7 @@
 ### 💻 Java Backend Developer | Spring Boot | Microservices  
 
 I'm a **Java Backend Developer** passionate about building scalable, reliable, and secure applications.  
-Currently working as an **Assistant System Engineer at TCS**, and building self-learning projects to sharpen my backend development skills.  
+Currently working as an **Assistant System Engineer at TCS**, and building self-learning projects to sharpen my backend development skills
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
