@@ -29,9 +29,25 @@ Currently working as an **Assistant System Engineer at TCS**, and building self-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📫 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/yerra-harisha-112a3a23b/)
-- [Email](mailto:yerraharisha2001@gmail.com)
+## 📫 Connect With Me 
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yerra-harisha-112a3a23b/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="28" height="28"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:yerraharisha2001@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Email" width="28" height="28"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Portfolio 
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="28" height="28"/>
+  </a>
+  -->
+</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
